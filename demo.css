@@ -1,0 +1,17 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   }
+
+   body {
+   background-image: url();
+   background-color: rgb(218, 121, 18);
+   } 
+   h1 {
+   padding-bottom: 300px;
+   padding-top:100px;
+   text-align: center;
+   color:#edc67e;
+   font-size:70px;
+   }
+    
